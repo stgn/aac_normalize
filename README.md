@@ -1,7 +1,7 @@
 aac_normalize
 =============
 
-Removes undesired channel configurations from AAC streams (ADTS format only) that contain more than one.
+Removes undesired channel configurations from AAC streams (ADTS format only) that contain more than one. Requires Python 2.7, [click](http://click.pocoo.org/), and [bitstring](https://code.google.com/p/python-bitstring/).
 
 Usage
 -----
